@@ -259,4 +259,4 @@ if __name__ == "__main__":
         s3info["mime_type"],
         s3info["file_size"],
     )
-    print("\n✅ Done: attachment uploaded and metadata saved.")
+    print("\n Done: attachment uploaded and metadata saved.")
